@@ -43,4 +43,4 @@ This is a RESTful API for managing a Survivor competition application. It allows
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/survivor-competition-api.git
+   git clone https://github.com/hasan-incel/Survivor_Api
